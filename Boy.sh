@@ -19,12 +19,12 @@ biru = ' \ e [1; 34m '
 sian = ' \ e [1; 36m '
 merah = ' \ e [1; 31m '
 
-  figlet -f miring " MR P4PO " | lolcat
+ 
+ figlet -f miring " TOOLS P4PO " | lolcat
 
 echo  "      ============================= " | lolcat
 echo  "      [+] PENULIS: P4PO [+] "  | lolcat
-echo   "     [+] Concact: 08979398164 [+] "  | lolcat
-echo  "      [+] DUKUNGAN: ALLAH SWT [+] "  | lolcat
+echo   "     [+] Concact: 083869628078 [+] "  | lolcat
 echo  "      ============================== "  | lolcat
 
 tidur 1
